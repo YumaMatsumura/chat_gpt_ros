@@ -1,3 +1,4 @@
 string request_message
 ---
 string response_message
+bool result
